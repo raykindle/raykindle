@@ -48,11 +48,7 @@
   [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
-<pre>
-┌──┤ PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://art.aigc8.cc">网站</a>
-├─◈ <a href="https://blog.aigc8.cc">博客</a>
-│
-└───────────────────────────────▰▰▰
-</pre>
+
+### 🛠️ My Projects
+<a href="https://art.aigc8.cc" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://blog.aigc8.cc" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
