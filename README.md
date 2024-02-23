@@ -26,10 +26,14 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
   
   [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
+![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
+<pre>
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://art.aigc8.cc">网站</a>
 ├─◈ <a href="https://blog.aigc8.cc">博客</a>
 │
 └───────────────────────────────▰▰▰
+</pre>
