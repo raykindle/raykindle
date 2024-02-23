@@ -26,11 +26,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
   
   [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<div align="center">
-  <a href="https://vaaski.dev">
-    <img src="https://github.com/vaaski/vaaski/raw/master/rain-logo.svg?sanitize=true">
-  </a>
-</div>
+
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
