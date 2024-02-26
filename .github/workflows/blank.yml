@@ -12,11 +12,6 @@ on:
   push:
     branches:
     - master
-
-permissions:
-  pull-requests: write
-  issues: write
-  repository-projects: write
   
 jobs:
   generate:
