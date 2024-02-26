@@ -22,14 +22,16 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 <br>
 <br/>
+
 ### 📫 How to reach me
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>]()  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]()  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>]()  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>]()  &nbsp; 
-<a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+<a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 <br>
 <br/>
+
 ### 🔨 Languages and Tools
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="assets/pytorch.svg" alt="PyTorch" height="42px"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="assets/tensorflow.svg" alt="TensorFlow" height="42px"/> </a>
@@ -40,23 +42,17 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://nextjs.org/" target="_blank"> <img align="left" src="assets/next-js.svg" alt="Next.js" height="42px"/> </a>
 <br>
 <br/>
-<br>
-<br/>
 
 ### 🛠️ My Projects
 <a href="https://art.aigc8.cc/" target="_blank"> <img align="left" src="assets/apple-touch-icon.png" alt="art" height="68px"/> </a>
 <a href="https://blog.aigc8.cc/" target="_blank"> <img align="left" src="assets/apple-touch-icon.png" alt="art" height="68px"/> </a>
 <br>
 <br/>
-<br>
-<br/>
-
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="" target="_blank"><img src="assets/caffe.gif" alt="Buy Me A Coffee" width="150" ></a>
 <br>
 <br/>
-
 
 ![raykindle's github activity graph](https://raw.githubusercontent.com/raykindle/raykindle/output/github-contribution-grid-snake.svg)
