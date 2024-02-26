@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=raykindle&label=Profile%20Visits&color=blue&style=for-the-badge)
 <br>
 <br/>
-  
+
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, AIGC Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 <br>
 <br/>
@@ -22,7 +22,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 <br>
 <br/>
-  
 ### 📫 How to reach me
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>]()  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]()  &nbsp; 
@@ -51,15 +50,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br>
 <br/>
-<br>
-<br/>
+
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="" target="_blank"><img src="assets/caffe.gif" alt="Buy Me A Coffee" width="150" ></a>
 <br>
 <br/>
-<br>
-<br/>
+
 
 ![raykindle's github activity graph](https://raw.githubusercontent.com/raykindle/raykindle/output/github-contribution-grid-snake.svg)
