@@ -9,7 +9,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <img align="right" alt="GIF" src="assets/Squirrel.png" width="360px"/>
 
-### 🧐 More About Me:
+### 🧐 &nbsp; More About Me:
 
 - 🔭 &nbsp; I’m currently working as a Software Developer in  **Shenzhen, China**
 - 🤝 &nbsp; I’m looking to collaborate on [AIGC](https://art.aigc8.cc/)
@@ -18,8 +18,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/%E6%96%87%E4%BF%8A-%E5%BC%A0-4916b412b/)
 - 📝 &nbsp; Checkout my [Resume]()
+<br>
+<br/>
 
-### 📫 How to reach me
+### 📫 &nbsp; How to reach me
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>]()  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]()  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>]()  &nbsp; 
@@ -28,7 +30,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <br/>
 
-### 🔨 Languages and Tools
+### 🔨 &nbsp; Languages and Tools
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="assets/pytorch.svg" alt="PyTorch" height="42px"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="assets/tensorflow.svg" alt="TensorFlow" height="42px"/> </a>
 <a href="https://www.python.org" target="_blank"> <img align="left" src="assets/python.svg" alt="Python" height ="42px"/> </a>
@@ -41,7 +43,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <br/>
 
-### 🛠️ My Projects
+### 🛠️ &nbsp; My Projects
 <a href="https://art.aigc8.cc/" target="_blank"> <img align="left" src="assets/apple-touch-icon.png" alt="art" height="68px"/> </a>
 <a href="https://blog.aigc8.cc/" target="_blank"> <img align="left" src="assets/apple-touch-icon.png" alt="art" height="68px"/> </a>
 <br>
