@@ -13,17 +13,16 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 - 🔭 &nbsp; I’m currently working as a Software Developer in  **Shenzhen, China**
 - 🤝 &nbsp; I’m looking to collaborate on [AIGC](https://art.aigc8.cc/)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/raykindle?tab=raykindle)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/%E6%96%87%E4%BF%8A-%E5%BC%A0-4916b412b/)
 - 📝 &nbsp; Checkout my [Resume]()
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/raykindle?tab=raykindle)
+- 🌱 &nbsp; I’m currently learning Typescript
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
 <br>
 <br/>
 
 ### 📫 &nbsp; How to reach me
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>]()  &nbsp; 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]()  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/%E6%96%87%E4%BF%8A-%E5%BC%A0-4916b412b/)  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>]()  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>]()  &nbsp; 
 <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
