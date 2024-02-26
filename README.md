@@ -20,8 +20,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
-<br>
-<br/>
 
 ### 📫 How to reach me
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>]()  &nbsp; 
