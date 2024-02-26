@@ -51,7 +51,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <br/>
 
-###### 🥺 &nbsp; if you like what i do, maybe consider buying me a coffee
+##### 🥺 &nbsp; if you like what i do, maybe consider buying me a coffee
 
 <a href="" target="_blank"><img src="assets/caffe.gif" alt="Buy Me A Coffee" width="150" ></a>
 <br>
