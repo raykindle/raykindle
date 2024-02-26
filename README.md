@@ -42,10 +42,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://nextjs.org/" target="_blank"> <img align="left" src="assets/next-js.svg" alt="Next.js" height="42px"/> </a>
 <br>
 <br/>
+<br>
+<br/>
 
 ### 🛠️ My Projects
 <a href="https://art.aigc8.cc/" target="_blank"> <img align="left" src="assets/apple-touch-icon.png" alt="art" height="68px"/> </a>
 <a href="https://blog.aigc8.cc/" target="_blank"> <img align="left" src="assets/apple-touch-icon.png" alt="art" height="68px"/> </a>
+<br>
+<br/>
 <br>
 <br/>
 
