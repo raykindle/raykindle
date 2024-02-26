@@ -1,4 +1,4 @@
-# Hello World!  <img src="/Users/zhangwenjun/vimedia/aigc/raykindle/assets/hi.gif" width="29px">
+# Hello World!  <img src="assets/hi.gif" width="29px">
 ![](https://komarev.com/ghpvc/?username=raykindle&label=Profile%20Visits&color=blue&style=for-the-badge)
 <br>
 <br/>
@@ -7,7 +7,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <br/>
 
-<img align="right" alt="GIF" src="/Users/zhangwenjun/vimedia/aigc/raykindle/assets/Squirrel.png" width="360px"/>
+<img align="right" alt="GIF" src="assets/Squirrel.png" width="360px"/>
 
 ### 🧐 More About Me:
 
@@ -32,21 +32,21 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <br/>
 ### 🔨 Languages and Tools
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="/Users/zhangwenjun/vimedia/aigc/raykindle/assets/pytorch.svg" alt="PyTorch" height="42px"/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="/Users/zhangwenjun/vimedia/aigc/raykindle/assets/tensorflow.svg" alt="TensorFlow" height="42px"/> </a>
-<a href="https://www.python.org" target="_blank"> <img align="left" src="/Users/zhangwenjun/vimedia/aigc/raykindle/assets/python.svg" alt="Python" height ="42px"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="/Users/zhangwenjun/vimedia/aigc/raykindle/assets/git.svg" alt="Git" height="42px"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="/Users/zhangwenjun/vimedia/aigc/raykindle/assets/typescript.svg" alt="Typescript" height ="42px"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img align="left" src="/Users/zhangwenjun/vimedia/aigc/raykindle/assets/figma.svg" alt="Figma" height="42px"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img align="left" src="/Users/zhangwenjun/vimedia/aigc/raykindle/assets/next-js.svg" alt="Next.js" height="42px"/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="assets/pytorch.svg" alt="PyTorch" height="42px"/> </a>
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="assets/tensorflow.svg" alt="TensorFlow" height="42px"/> </a>
+<a href="https://www.python.org" target="_blank"> <img align="left" src="assets/python.svg" alt="Python" height ="42px"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" src="assets/git.svg" alt="Git" height="42px"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="assets/typescript.svg" alt="Typescript" height ="42px"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img align="left" src="assets/figma.svg" alt="Figma" height="42px"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img align="left" src="assets/next-js.svg" alt="Next.js" height="42px"/> </a>
 <br>
 <br/>
 <br>
 <br/>
 
 ### 🛠️ My Projects
-<a href="https://art.aigc8.cc/" target="_blank"> <img align="left" src="/Users/zhangwenjun/vimedia/aigc/raykindle/assets/apple-touch-icon.png" alt="art" height="68px"/> </a>
-<a href="https://blog.aigc8.cc/" target="_blank"> <img align="left" src="/Users/zhangwenjun/vimedia/aigc/raykindle/assets/apple-touch-icon.png" alt="art" height="68px"/> </a>
+<a href="https://art.aigc8.cc/" target="_blank"> <img align="left" src="assets/apple-touch-icon.png" alt="art" height="68px"/> </a>
+<a href="https://blog.aigc8.cc/" target="_blank"> <img align="left" src="assets/apple-touch-icon.png" alt="art" height="68px"/> </a>
 <br>
 <br/>
 <br>
@@ -56,7 +56,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="" target="_blank"><img src="/Users/zhangwenjun/vimedia/aigc/raykindle/assets/caffe.gif" alt="Buy Me A Coffee" width="150" ></a>
+<a href="" target="_blank"><img src="assets/caffe.gif" alt="Buy Me A Coffee" width="150" ></a>
 <br>
 <br/>
 <br>
