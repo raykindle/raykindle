@@ -51,3 +51,6 @@
 ### 🛠️ My Projects
 <a href="https://art.aigc8.cc" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
 <a href="https://blog.aigc8.cc" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+
+
+![raykindle's github activity graph](https://raw.githubusercontent.com/raykindle/raykindle/output/github-contribution-grid-snake.svg)
