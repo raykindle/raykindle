@@ -33,6 +33,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="assets/pytorch.svg" alt="PyTorch" height="42px"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="assets/tensorflow.svg" alt="TensorFlow" height="42px"/> </a>
 <a href="https://www.python.org" target="_blank"> <img align="left" src="assets/python.svg" alt="Python" height ="42px"/> </a>
+<a href="https://www.docker.com" target="_blank"> <img align="left" src="assets/docker.svg" alt="Docker" height ="42px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="assets/git.svg" alt="Git" height="42px"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="assets/typescript.svg" alt="Typescript" height ="42px"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img align="left" src="assets/figma.svg" alt="Figma" height="42px"/> </a>
