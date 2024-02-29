@@ -28,6 +28,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="mailto:aditya.pal.science@gmail.com" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Twitter" height="42px" style="margin-left: 10px;"/> </a>
 <br>
 <br/>
+<br>
+<br/>
 
 ### 🔨 &nbsp; Languages and Tools
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="assets/pytorch.svg" alt="PyTorch" height="42px" style="margin-left: 68px;"/> </a>
@@ -40,17 +42,20 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://nextjs.org/" target="_blank"> <img align="left" src="assets/next-js.svg" alt="Next.js" height="42px" style="margin-left: 10px;"/> </a>
 <br>
 <br/>
+<br>
+<br/>
 
 ### 🛠️ &nbsp; My Projects
 <a href="https://art.aigc8.cc/" target="_blank"> <img align="left" src="assets/logo_1.png" alt="art" height="68px" style="margin-left: 68px;"/> </a>
-<a href="https://blog.aigc8.cc/" target="_blank"> <img align="left" src="assets/logo_2.png" alt="blog" height="68px" style="margin-left: 68px;"/> </a>
+<a href="https://blog.aigc8.cc/" target="_blank"> <img align="left" src="assets/logo_2.png" alt="blog" height="68px" style="margin-left: 128px;"/> </a>
+<br>
+<br/>
 <br>
 <br/>
 
 ##### 🥺 &nbsp; if you like what i do, maybe consider buying me a coffee
-
 <a href="" target="_blank"><img src="assets/caffe.gif" alt="Buy Me A Coffee" width="150" style="margin-left: 10px;"/></a>
 <br>
 <br/>
 
-![raykindle's github activity graph](https://raw.githubusercontent.com/raykindle/raykindle/output/github-contribution-grid-snake.svg)
+[comment]: <> (![raykindle's github activity graph]&#40;https://raw.githubusercontent.com/raykindle/raykindle/output/github-contribution-grid-snake.svg&#41;)
