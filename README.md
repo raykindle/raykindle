@@ -21,18 +21,16 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 
 ### 📫 &nbsp; How to reach me
-<a href="https://twitter.com/liangyuechu" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="42px" style="margin-left: 10px;"/> </a>
+<a href="https://twitter.com/liangyuechu" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="42px" style="margin-left: 68px;"/> </a>
 <a href="https://www.linkedin.com/in/%E6%96%87%E4%BF%8A-%E5%BC%A0-4916b412b/" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Twitter" height="42px" style="margin-left: 10px;"/> </a>
 <a href="" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Twitter" height="42px" style="margin-left: 10px;"/> </a>
 <a href="" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Twitter" height="42px" style="margin-left: 10px;"/> </a>
 <a href="mailto:aditya.pal.science@gmail.com" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Twitter" height="42px" style="margin-left: 10px;"/> </a>
 <br>
 <br/>
-<br>
-<br/>
 
 ### 🔨 &nbsp; Languages and Tools
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="assets/pytorch.svg" alt="PyTorch" height="42px" style="margin-left: 10px;"/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="assets/pytorch.svg" alt="PyTorch" height="42px" style="margin-left: 68px;"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="assets/tensorflow.svg" alt="TensorFlow" height="42px" style="margin-left: 10px;"/> </a>
 <a href="https://www.python.org" target="_blank"> <img align="left" src="assets/python.svg" alt="Python" height ="42px" style="margin-left: 10px;"/> </a>
 <a href="https://www.docker.com" target="_blank"> <img align="left" src="assets/docker.svg" alt="Docker" height ="42px" style="margin-left: 10px;"/> </a>
@@ -42,20 +40,16 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://nextjs.org/" target="_blank"> <img align="left" src="assets/next-js.svg" alt="Next.js" height="42px" style="margin-left: 10px;"/> </a>
 <br>
 <br/>
-<br>
-<br/>
 
 ### 🛠️ &nbsp; My Projects
-<a href="https://art.aigc8.cc/" target="_blank"> <img align="left" src="assets/logo_1.png" alt="art" height="68px" style="margin-left: 18px;"/> </a>
-<a href="https://blog.aigc8.cc/" target="_blank"> <img align="left" src="assets/logo_2.png" alt="blog" height="68px" style="margin-left: 48px;"/> </a>
-<br>
-<br/>
+<a href="https://art.aigc8.cc/" target="_blank"> <img align="left" src="assets/logo_1.png" alt="art" height="68px" style="margin-left: 68px;"/> </a>
+<a href="https://blog.aigc8.cc/" target="_blank"> <img align="left" src="assets/logo_2.png" alt="blog" height="68px" style="margin-left: 68px;"/> </a>
 <br>
 <br/>
 
 ##### 🥺 &nbsp; if you like what i do, maybe consider buying me a coffee
 
-<a href="" target="_blank"><img src="assets/caffe.gif" alt="Buy Me A Coffee" width="150" style="margin-left: 0px;"/></a>
+<a href="" target="_blank"><img src="assets/caffe.gif" alt="Buy Me A Coffee" width="150" style="margin-left: 10px;"/></a>
 <br>
 <br/>
 
