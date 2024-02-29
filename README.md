@@ -28,6 +28,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="mailto:aditya.pal.science@gmail.com" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Twitter" height="42px" style="margin-left: 10px;"/> </a>
 <br>
 <br/>
+<br>
+<br/>
 
 ### 🔨 &nbsp; Languages and Tools
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="assets/pytorch.svg" alt="PyTorch" height="42px" style="margin-left: 10px;"/> </a>
@@ -45,7 +47,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🛠️ &nbsp; My Projects
 <a href="https://art.aigc8.cc/" target="_blank"> <img align="left" src="assets/logo_1.png" alt="art" height="68px" style="margin-left: 18px;"/> </a>
-<a href="https://blog.aigc8.cc/" target="_blank"> <img align="left" src="assets/logo_2.png" alt="art" height="68px"style="margin-left: 48px;"/> </a>
+<a href="https://blog.aigc8.cc/" target="_blank"> <img align="left" src="assets/logo_2.png" alt="blog" height="68px" style="margin-left: 48px;"/> </a>
 <br>
 <br/>
 <br>
@@ -53,7 +55,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ##### 🥺 &nbsp; if you like what i do, maybe consider buying me a coffee
 
-<a href="" target="_blank"><img src="assets/caffe.gif" alt="Buy Me A Coffee" width="150"  style="margin-left: 0px;"/></a>
+<a href="" target="_blank"><img src="assets/caffe.gif" alt="Buy Me A Coffee" width="150" style="margin-left: 0px;"/></a>
 <br>
 <br/>
 
