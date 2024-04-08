@@ -1,9 +1,11 @@
-# Hello World!  <img src="assets/hi.gif" width="29px">
+# Hi, I'm ZhangWenJun !  <img src="assets/hi.gif" width="29px">
 ![](https://komarev.com/ghpvc/?username=raykindle&label=Profile%20Visits&color=blue&style=for-the-badge)
+
+[中文](README.md) | [English](README.en.md)
 <br>
 <br/>
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, AIGC Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+I am a versatilist and easily adapt to different hats (AIGC Engineer 🤖 , Full Stack Web Developer 🌐, App Developer 📱, beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 <br>
 <br/>
 

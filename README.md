@@ -1,12 +1,11 @@
-# 哈喽，我是张文俊!  <img src="assets/hi.gif" width="29px">
+# Hi，我是张文俊 !  <img src="assets/hi.gif" width="29px">
 ![](https://komarev.com/ghpvc/?username=raykindle&label=Profile%20Visits&color=blue&style=for-the-badge)
-<br>
-<br/>
+
 [中文](README.md) | [English](README.en.md)
 <br>
 <br/>
 
-我是一个多面手，很容易适应不同的角色(全栈Web开发人员🌐，应用程序开发人员📱，AIGC工程师🤖或初学者水平的设计师🎨)，这取决于什么项目需要。我喜欢探索新的技术栈💻，并利用它们来构建很酷的东西🛠️。
+我是一个多面手，很容易适应不同的角色(AIGC算法工程师 🤖，全栈Web开发人员 🌐，应用程序开发人员 📱，初学者水平的设计师 🎨)，这取决于什么项目需要。我喜欢探索新的技术栈 💻，并利用它们来构建很酷的东西 🛠️。
 <br>
 <br/>
 
@@ -14,9 +13,9 @@
 
 ### 🧐 &nbsp; 关于我:
 
-- 🔭 &nbsp; 我目前在**中国深圳**从事 AIGC 相关开发工作
+- 🔭 &nbsp; 我目前在 **中国深圳** 从事 AIGC 相关开发工作
 - 🤝 &nbsp; 我想在 [AIGC](https://art.aigc8.cc/) 上合作
-- 📝 &nbsp; 查看我的[简历]()
+- 📝 &nbsp; 查看我的 [简历]()
 - 👨🏻‍💻 &nbsp; 我的大部分项目都可以在 [Github](https://github.com/raykindle?tab=raykindle) 上找到
 - 🌱 &nbsp; 我正在学习 Typescript
 - 💬 &nbsp; 我很乐意提供帮助：想咨询任何与技术相关的问题
@@ -34,7 +33,7 @@
 <br>
 <br/>
 
-### 🔨 &nbsp; 干饭家伙
+### 🔨 &nbsp; 语言和工具
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="assets/pytorch.svg" alt="PyTorch" height="42px" style="margin-left: 10px;"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="assets/tensorflow.svg" alt="TensorFlow" height="42px" style="margin-left: 10px;"/> </a>
 <a href="https://www.python.org" target="_blank"> <img align="left" src="assets/python.svg" alt="Python" height ="42px" style="margin-left: 10px;"/> </a>
