@@ -17,7 +17,7 @@ I am a versatilist and easily adapt to different hats (AIGC Engineer 🤖 , Full
 - 🤝 &nbsp; I’m looking to collaborate on [AIGC](https://art.aigc8.cc/)
 - 📝 &nbsp; Checkout my [Resume]()
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/raykindle?tab=raykindle)
-- 🌱 &nbsp; I’m currently learning Typescript
+- 🌱 &nbsp; I’m currently learning [Typescript](https://www.typescriptlang.org/)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 <br>
 <br/>
@@ -54,6 +54,14 @@ I am a versatilist and easily adapt to different hats (AIGC Engineer 🤖 , Full
 <br/>
 <br>
 <br/>
+<br>
+<br/>
+
+### 🧐 &nbsp; Future Plan
+
+- 📚 &nbsp; Publish a set of system zero threshold tutorial: from 0-->1 step by step to teach you to deploy ComfyUI-based packaged AIGC applications
+- 📜 &nbsp; Interpret AIGC cutting-edge papers, research commercialization landing, continue to update [blog](https://blog.aigc8.cc/) 
+- 💻 &nbsp; Optimize the [AIGC](https://art.aigc8.cc/) project to develop more interesting new features
 <br>
 <br/>
 

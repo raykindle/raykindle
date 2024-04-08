@@ -17,7 +17,7 @@
 - 🤝 &nbsp; 我想在 [AIGC](https://art.aigc8.cc/) 上合作
 - 📝 &nbsp; 查看我的 [简历]()
 - 👨🏻‍💻 &nbsp; 我的大部分项目都可以在 [Github](https://github.com/raykindle?tab=raykindle) 上找到
-- 🌱 &nbsp; 我正在学习 Typescript
+- 🌱 &nbsp; 我正在学习 [Typescript](https://www.typescriptlang.org/)
 - 💬 &nbsp; 我很乐意提供帮助：想咨询任何与技术相关的问题
 <br>
 <br/>
@@ -54,6 +54,14 @@
 <br/>
 <br>
 <br/>
+<br>
+<br/>
+
+### 🧐 &nbsp; 未来计划
+
+- 📚 &nbsp; 发布一套系统的零门槛教程：从 0-->1 手把手教你部署基于 ComfyUI 的封装 AIGC 应用
+- 📜 &nbsp; 解读 AIGC 前沿论文，研究商业化落地，持续更新到 [博客](https://blog.aigc8.cc/) 
+- 💻 &nbsp; 优化 [AIGC](https://blog.aigc8.cc/) 项目，开发更多好玩的新功能
 <br>
 <br/>
 
