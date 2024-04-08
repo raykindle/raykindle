@@ -57,7 +57,7 @@ I am a versatilist and easily adapt to different hats (AIGC Engineer 🤖 , Full
 <br>
 <br/>
 
-### 🧐 &nbsp; Future Plan
+### 📝 &nbsp; Future Plan
 
 - 📚 &nbsp; Publish a set of system zero threshold tutorial: from 0-->1 step by step to teach you to deploy ComfyUI-based packaged AIGC applications
 - 📜 &nbsp; Interpret AIGC cutting-edge papers, research commercialization landing, continue to update [blog](https://blog.aigc8.cc/) 

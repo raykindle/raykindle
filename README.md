@@ -57,7 +57,7 @@
 <br>
 <br/>
 
-### 🧐 &nbsp; 未来计划
+### 📝 &nbsp; 未来计划
 
 - 📚 &nbsp; 发布一套系统的零门槛教程：从 0-->1 手把手教你部署基于 ComfyUI 的封装 AIGC 应用
 - 📜 &nbsp; 解读 AIGC 前沿论文，研究商业化落地，持续更新到 [博客](https://blog.aigc8.cc/) 
