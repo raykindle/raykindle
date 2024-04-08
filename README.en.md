@@ -54,8 +54,6 @@ I am a versatilist and easily adapt to different hats (AIGC Engineer 🤖 , Full
 <br/>
 <br>
 <br/>
-<br>
-<br/>
 
 ### 📝 &nbsp; Future Plan
 
