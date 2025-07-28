@@ -1,73 +1,162 @@
-# Hi，我是张文俊 !  <img src="assets/hi.gif" width="29px">
-![](https://komarev.com/ghpvc/?username=raykindle&label=Profile%20Visits&color=blue&style=for-the-badge)
+#  <img src="assets/hi.gif" width="29px"> Hi, I'm ZhangWenJun !
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AIGC+Algorithm+Engineer;8+Years+of+Deep+Learning+Experience;Video+Generation+%26+Multimodal+Fusion+Expert;AI+System+Architecture+Specialist" alt="Typing SVG" />
+</div>
 
-[中文](README.md) | [English](README.en.md)
-<br>
-<br/>
+## 🚀 About Me
 
-我是一个多面手，很容易适应不同的角色(AIGC算法工程师 🤖，全栈Web开发人员 🌐，应用程序开发人员 📱，初学者水平的设计师 🎨)，这取决于什么项目需要。我喜欢探索新的技术栈 💻，并利用它们来构建很酷的东西 🛠️。
-<br>
-<br/>
+🎯 **Senior AIGC Algorithm Engineer** with **8 years** of experience in deep learning and computer vision  
+🔬 Specialized in **Video Generation**, **Multimodal Fusion**, and **Large-scale AI System Optimization**  
+💡 Led **30+ AI algorithm projects** from research to production, achieving **80% cost reduction** and **300% efficiency improvement**  
+🏆 Expert in cutting-edge technologies: **Diffusion Models**, **Flux**, **Transformer Architecture**, **Wan**, **Vace FusioniX**
 
-<img align="right" alt="GIF" src="assets/Squirrel.png" width="360px"/>
+---
 
-### 🧐 &nbsp; 关于我:
+## 🛠️ Tech Stack
 
-- 🔭 &nbsp; 我目前在 **中国深圳** 从事 AIGC 相关开发工作
-- 🤝 &nbsp; 我想在 [AIGC](https://art.aigc8.cc/) 上合作
-- 📝 &nbsp; 查看我的 [简历]()
-- 👨🏻‍💻 &nbsp; 我的大部分项目都可以在 [Github](https://github.com/raykindle?tab=raykindle) 上找到
-- 🌱 &nbsp; 我正在学习 [Typescript](https://www.typescriptlang.org/)
-- 💬 &nbsp; 我很乐意提供帮助：想咨询任何与技术相关的问题
-<br>
-<br/>
+### 🤖 Generative Models
+![Flux](https://img.shields.io/badge/Flux-4ECDC4?style=for-the-badge&logo=ai&logoColor=white)
+![DiT](https://img.shields.io/badge/DiT-45B7D1?style=for-the-badge&logo=transformer&logoColor=white)
+![Vace_FusioniX](https://img.shields.io/badge/Vace_FusioniX-96CEB4?style=for-the-badge&logo=video&logoColor=white)
 
-### 📫 &nbsp; 如何联系我
-<a href="https://twitter.com/liangyuechu" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="42px" style="margin-left: 10px;"/> </a>
-<a href="https://www.linkedin.com/in/%E6%96%87%E4%BF%8A-%E5%BC%A0-4916b412b/" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Twitter" height="42px" style="margin-left: 10px;"/> </a>
-<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Twitter" height="42px" style="margin-left: 10px;"/> </a>
-<a href="" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Twitter" height="42px" style="margin-left: 10px;"/> </a>
-<a href="mailto:aditya.pal.science@gmail.com" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Twitter" height="42px" style="margin-left: 10px;"/> </a>
-<br>
-<br/>
-<br>
-<br/>
+### 🧠 Deep Learning Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-74B9FF?style=for-the-badge&logo=ui&logoColor=white)
+![Transformer](https://img.shields.io/badge/Transformer-00B894?style=for-the-badge&logo=transformer&logoColor=white)
+![Vace](https://img.shields.io/badge/Vace-FFEAA7?style=for-the-badge&logo=Vace&logoColor=black)
 
-### 🔨 &nbsp; 语言和工具
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="assets/pytorch.svg" alt="PyTorch" height="42px" style="margin-left: 10px;"/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="assets/tensorflow.svg" alt="TensorFlow" height="42px" style="margin-left: 10px;"/> </a>
-<a href="https://www.python.org" target="_blank"> <img align="left" src="assets/python.svg" alt="Python" height ="42px" style="margin-left: 10px;"/> </a>
-<a href="https://www.docker.com" target="_blank"> <img align="left" src="assets/docker.svg" alt="Docker" height ="42px" style="margin-left: 10px;"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="assets/git.svg" alt="Git" height="42px" style="margin-left: 10px;"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="assets/typescript.svg" alt="Typescript" height ="42px" style="margin-left: 10px;"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img align="left" src="assets/figma.svg" alt="Figma" height="42px" style="margin-left: 10px;"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img align="left" src="assets/next-js.svg" alt="Next.js" height="42px" style="margin-left: 10px;"/> </a>
-<br>
-<br/>
-<br>
-<br/>
+### ⚡ Optimization & Engineering
+![TensorRT](https://img.shields.io/badge/TensorRT-00D2FF?style=for-the-badge&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🛠️ &nbsp; 我的项目
-<a href="https://art.aigc8.cc/" target="_blank"> <img align="left" src="assets/logo_1.png" alt="art" height="68px" style="margin-left: 10px;"/> </a>
-<a href="https://blog.aigc8.cc/" target="_blank"> <img align="left" src="assets/logo_2.png" alt="blog" height="68px" style="margin-left: 48px;"/> </a>
-<br>
-<br/>
-<br>
-<br/>
-<br>
-<br/>
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 📝 &nbsp; 未来计划
+---
 
-- 📚 &nbsp; 发布一套系统的零门槛教程：从 0-->1 手把手教你部署基于 ComfyUI 的封装 AIGC 应用
-- 📜 &nbsp; 解读 AIGC 前沿论文，研究商业化落地，持续更新到 [博客](https://blog.aigc8.cc/) 
-- 💻 &nbsp; 优化 [AIGC](https://blog.aigc8.cc/) 项目，开发更多好玩的新功能
-<br>
-<br/>
+## 🌟 Featured Projects
 
-##### 🥺 &nbsp; 如果你喜欢我的工作，也许可以考虑请我喝杯咖啡
-<a href="" target="_blank"><img src="assets/caffe.gif" alt="Buy Me A Coffee" width="150" style="margin-left: 10px;"/></a>
-<br>
-<br/>
+### 🎬 AI Video Character Replacement Technology
+> **Revolutionary video generation solution for gaming industry**
 
-[comment]: <> (![raykindle's github activity graph]&#40;https://raw.githubusercontent.com/raykindle/raykindle/output/github-contribution-grid-snake.svg&#41;)
+- 🔥 **Core Tech**: Vace FusioniX + Depth-driven Extraction + Flux Kontext Editing
+- 🚀 **Innovation**: Layered injection strategy (scene-first, character-second) for natural fusion
+- 📊 **Impact**: **6000% efficiency boost** (8 hours → 8 minutes), **70% cost reduction**
+- 🎯 **Quality**: 1024×1024 resolution, 30fps, FID<15, **90%+ user satisfaction**
+
+
+### 🏗️ AIGC Unified Framework Architecture
+> **Large-scale AI service optimization and resource pooling**
+
+- 🔧 **Architecture**: Microservices + Dynamic GPU Scheduling + Model Weight Sharing
+- ⚡ **Optimization**: INT8 Quantization + Knowledge Distillation + Inference Graph Optimization
+- 📈 **Results**: **80% cost reduction**, **85% GPU utilization**, **2x concurrent processing**
+- 🎯 **Scale**: Supporting 20+ AIGC services with unified resource management
+
+### 🚄 AI Service Performance Optimization
+> **High-frequency AIGC service acceleration and cost optimization**
+
+- 🔬 **Techniques**: Model Compression + TensorRT Acceleration + Smart Batching
+- 📊 **Achievements**: **≥40% latency reduction**, **65% cost per instance reduction**
+- 🎯 **Performance**: **1.8x QPS improvement**, **99.9% system stability**
+
+### 🎨 ComfyUI Deep Customization Framework
+> **Visual algorithm orchestration platform for rapid AIGC development**
+
+- 🛠️ **Framework**: Modular design + Hot-swappable nodes + GPU memory sharing
+- 🚀 **Efficiency**: **14 image algorithms** deployed, **3-day development cycle**
+- 📈 **Impact**: **70% code reuse rate**, **60% debugging time reduction**
+
+---
+
+<!-- ## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raykindle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raykindle&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raykindle&theme=tokyonight" alt="GitHub Streak" />
+</div> -->
+
+---
+
+## 🏆 Key Achievements
+
+- 🎯 **Cost Optimization**: Saved **millions of RMB** in computing costs through algorithmic innovations
+- 🚀 **Efficiency Boost**: **60% improvement** in algorithm development efficiency across teams
+- 🔬 **Technical Innovation**: **2 patents** filed in video generation and multimodal fusion
+- 👥 **Team Leadership**: Mentored **3 junior engineers** to become algorithm experts
+
+---
+
+## 🌐 Core Expertise Areas
+
+```mermaid
+mindmap
+  root((AIGC Algorithm Engineer))
+    Video Generation
+      Diffusion Models
+      Temporal Consistency
+      Multi-frame Fusion
+      Depth-driven Control
+    Multimodal Fusion
+      Image-Text-Audio
+      Feature Alignment
+      Attention Mechanisms
+      Cross-modal Generation
+    System Optimization
+      Model Quantization
+      GPU Resource Pooling
+      Dynamic Scheduling
+      Distributed Training
+    Engineering Excellence
+      Microservices Architecture
+      Performance Optimization
+      Large-scale Deployment
+      Cost Optimization
+```
+
+---
+
+## 📈 Professional Impact
+
+<div align="center">
+
+| Metric | Achievement | Impact |
+|--------|-------------|---------|
+| 💰 **Cost Reduction** | 80% | Millions saved in computing resources |
+| ⚡ **Efficiency Gain** | 300% | Video generation speed improvement |
+| 🎯 **GPU Utilization** | 85% | From 35% baseline optimization |
+| 🚀 **Projects Delivered** | 30+ | AI algorithms in production |
+| 👥 **Team Growth** | 60% | Development efficiency improvement |
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-raykindle@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raykindle@163.com)
+[![GitHub](https://img.shields.io/badge/GitHub-raykindle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raykindle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenjun-zhang-708a82367/)
+
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=raykindle&label=Profile%20Visits&color=blue&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <h3>💡 "Transforming cutting-edge AI research into production-ready solutions"</h3>
+  <p><em>Passionate about pushing the boundaries of AIGC technology and creating impactful AI systems</em></p>
+</div>
+
+---
+
+⭐ **If you find my work interesting, please consider giving my repositories a star!** ⭐
