@@ -1,4 +1,4 @@
-#  <img src="assets/hi.gif" width="29px"> Hi, I'm ZhangWenJun !
+#  <img src="assets/hi.gif" width="29px"> Hi, I'm Raykindle !
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AIGC+Algorithm+Engineer;8+Years+of+Deep+Learning+Experience;Video+Generation+%26+Multimodal+Fusion+Expert;AI+System+Architecture+Specialist" alt="Typing SVG" />
 </div>
